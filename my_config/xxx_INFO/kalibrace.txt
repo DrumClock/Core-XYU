@@ -1,0 +1,4 @@
+STEPPER_BUZZ stepper='stepper x'
+STEPPER_BUZZ stepper='stepper y'
+STEPPER_BUZZ stepper='stepper u'
+STEPPER_BUZZ stepper='stepper z'
