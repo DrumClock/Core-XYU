@@ -1,4 +1,5 @@
 **New generic-cartesian kinematics**
+
 https://klipper.discourse.group/t/new-generic-cartesian-kinematics-incl-corexyu-corexyuv-generic-idex-and-awd/17510
 
 **Core XYU  - dual carriage**
