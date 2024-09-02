@@ -8,15 +8,16 @@ https://github.com/dmbutyugin/klipper/tree/generic-cartesian
 
 ---------------------------------------------------------------
 
-# **Core XYU  - dual carriage** 
+# **Core XYU  - dual carriage + IDEX mode** 
 
-**Video demonstration of kinematics including IDEX mode COPY and MIRROR:**  https://www.youtube.com/watch?v=s85qpCWupn4
+**Video demonstration of kinematics:**  https://www.youtube.com/watch?v=s85qpCWupn4
 
+# **Mechanical design of belts**
 
 ![CoreXY+U_dual_carriage_frame](https://github.com/user-attachments/assets/361c5da8-9979-4da5-a37e-768a20e0a299)
 
 
-**Klipper configuration**
+# **Klipper Kinematics configuration**
 
 
 ```
@@ -47,4 +48,4 @@ kinematics: u+y
 [tmc2208 stepper u]   
 ....
 ```
-
+---------------------------------------------------------------
