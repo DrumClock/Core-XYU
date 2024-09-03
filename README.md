@@ -14,8 +14,7 @@ https://github.com/dmbutyugin/klipper/tree/generic-cartesian
 
 # **Mechanical design of belts**
 
-![CoreXY+U_dual_carriage_frame](https://github.com/user-attachments/assets/361c5da8-9979-4da5-a37e-768a20e0a299)
-
+![CoreXY+U_dual_carriage_frame](https://github.com/DrumClock/Generic-cartesian/blob/main/CoreXY%2BU_dual_carriage.png)
 
 # **Klipper Kinematics configuration**
 
