@@ -18,35 +18,8 @@ https://github.com/dmbutyugin/klipper/tree/generic-cartesian
 
 # **Klipper Kinematics configuration**
 
+https://github.com/DrumClock/Generic-cartesian/blob/main/my_config/dual_carriage_XYU.cfg
 
-```
-#--------------------  Motor X ----------------------------------#-
-[carriage x] 
-....
-[stepper x]
-kinematics: x+y
-....
-[tmc2208 stepper x]  
-....
-#--------------------  Motor Y ----------------------------------#-
-[carriage y]
-....
-[stepper y]
-kinematics: x-y
-....
-[tmc2208 stepper y]   
-....
-#--------------------  Motor U ----------------------------------#-
-[dual_carriage u] 
-primary_carriage: x
-safe_distance: 35
-....
-[stepper u]
-kinematics: u+y
-....
-[tmc2208 stepper u]   
-....
-```
 ---------------------------------------------------------------
 # **Core XY + Core UV - dual carriage + IDEX mode** 
 
@@ -57,41 +30,4 @@ kinematics: u+y
 ![CoreXY+UV_dual_carriage_frame](https://github.com/DrumClock/Generic-cartesian/blob/main/CoreXY%2BUV_dual_carriage.png)
 
 # **Klipper Kinematics configuration**
-```
-#-------------------  Motor X -------------------------------#
-
-[carriage x] 
-....
-[stepper x]
-kinematics: x+y
-....
-
-[tmc2208 stepper x]  
-
-#-------------------  Motor Y -------------------------------#
-
-[carriage y]
-....
-[stepper y]
-kinematics: x-y
-....
-[tmc2208 stepper y]   
-
-#-------------------  Motor U -------------------------------#
-
-[dual_carriage u] 
-primary_carriage: x
-safe_distance: 35
-....
-[stepper u]
-kinematics: u+y
-....
-[tmc2208 stepper u]   
-
-#-------------------  Motor V -------------------------------#
-
-[stepper v]
-kinematics: u-y  
-....
-[tmc2208 stepper v]   
-```
+https://github.com/DrumClock/Generic-cartesian/blob/main/my_config/dual_carriage_XY_UV.cfg
