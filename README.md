@@ -50,7 +50,7 @@ kinematics: u+y
 ---------------------------------------------------------------
 # **Core XY + Core UV - dual carriage + IDEX mode** 
 
-**Video demonstration of kinematics:**  [https://www.youtube.com/watch?v=s85qpCWupn4](https://www.youtube.com/watch?v=AIejTfQ-dSg)
+**Video demonstration of kinematics:** https://www.youtube.com/watch?v=AIejTfQ-dSg
 
 # **Mechanical design of belts**
 
