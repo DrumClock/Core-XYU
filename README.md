@@ -12,11 +12,11 @@ https://github.com/dmbutyugin/klipper/tree/generic-cartesian
 
 **Video demonstration of kinematics:**  https://www.youtube.com/watch?v=s85qpCWupn4
 
-# **Mechanical design of belts**
+**Mechanical design of belts**
 
 ![CoreXY+U_dual_carriage_frame](https://github.com/DrumClock/Generic-cartesian/blob/main/CoreXY%2BU_dual_carriage.png)
 
-# **Klipper Kinematics configuration**
+**Klipper Kinematics configuration**
 
 https://github.com/DrumClock/Generic-cartesian/blob/main/my_config/dual_carriage_XYU.cfg
 
@@ -25,9 +25,9 @@ https://github.com/DrumClock/Generic-cartesian/blob/main/my_config/dual_carriage
 
 **Video demonstration of kinematics:** https://www.youtube.com/watch?v=AIejTfQ-dSg
 
-# **Mechanical design of belts**
+**Mechanical design of belts**
 
 ![CoreXY+UV_dual_carriage_frame](https://github.com/DrumClock/Generic-cartesian/blob/main/CoreXY%2BUV_dual_carriage.png)
 
-# **Klipper Kinematics configuration**
+**Klipper Kinematics configuration**
 https://github.com/DrumClock/Generic-cartesian/blob/main/my_config/dual_carriage_XY_UV.cfg
