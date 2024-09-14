@@ -31,3 +31,13 @@ https://github.com/DrumClock/Generic-cartesian/blob/main/my_config/dual_carriage
 
 **Klipper Kinematics configuration**
 https://github.com/DrumClock/Generic-cartesian/blob/main/my_config/dual_carriage_XY_UV.cfg
+
+----------------------------------------------------------------
+# **Dual Gantry X with dual carriage (Core XY + Core UV ) + IDEX mode**
+
+**Video demonstration of kinematics:**  https://youtu.be/CByJuaerTZ0
+
+**Mechanical design of belts**
+
+**Klipper Kinematics configuration**
+
