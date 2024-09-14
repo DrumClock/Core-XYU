@@ -38,6 +38,8 @@ https://github.com/DrumClock/Generic-cartesian/blob/main/my_config/dual_carriage
 **Video demonstration of kinematics:**  https://youtu.be/CByJuaerTZ0
 
 **Mechanical design of belts**
+![CoreXY+UV_dual_gantry](https://github.com/DrumClock/Generic-cartesian/blob/main/CoreXY%2BUV_dual_gantry.png)
 
 **Klipper Kinematics configuration**
+https://github.com/DrumClock/Generic-cartesian/blob/main/my_config/dual_gantry_XYUV.cfg
 
